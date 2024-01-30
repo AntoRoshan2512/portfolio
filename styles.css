@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('C:/Users/antor/OneDrive/Desktop/office/leone-venter-VieM9BdZKFo-unsplash.jpg');
+    background-image: url('images/leone-venter-VieM9BdZKFo-unsplash.jpg');
     background-size: 1750px 3050px; 
     background-position: center center;
     background-repeat: no-repeat;
 }
 .container {
-    width: 100%; /* Set width to 100% to cover the full display width */
+    width: 100%; 
     margin: 0 auto;
     overflow: hidden;
 }
@@ -52,7 +52,7 @@ nav ul li a:hover {
 }
 
 .header-bg {
-    background-image: url('C:/Users/antor/OneDrive/Desktop/office/5026563.jpg');
+    background-image: url('images/5026563.jpg');
     background-size: cover;
     padding: 20px 300px;
 }
