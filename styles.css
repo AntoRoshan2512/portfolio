@@ -1,0 +1,210 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('C:/Users/antor/OneDrive/Desktop/office/leone-venter-VieM9BdZKFo-unsplash.jpg');
+    background-size: 1750px 3050px; 
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.container {
+    width: 100%; /* Set width to 100% to cover the full display width */
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 1.0em;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #f44336;
+}
+
+.header-bg {
+    background-image: url('C:/Users/antor/OneDrive/Desktop/office/5026563.jpg');
+    background-size: cover;
+    padding: 20px 300px;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0;
+}
+
+.passport-photo {
+    max-width: 175px;
+    border-radius: 75%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.info {
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.section {
+    margin-bottom: 50px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+.resume-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.resume-link:hover {
+    background-color: #45a049;
+}
+
+
+.social-icons {
+    display: flex;
+    align-items: center;
+}
+
+.social-icon {
+    margin-right: 10px;
+}
+
+.social-icon img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
+.social-icon img:hover {
+    transform: scale(1.2);
+}
+
+#about p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+#Personal Touch p {
+    margin-bottom: 20px;
+}
+
+.art-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.art-gallery img {
+    max-width: 20%;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.art-gallery img:hover {
+    border: 1px solid #555;
+}
+
+#projects li a {
+    color: #0366d6;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 5px;
+    display: block;
+}
+
+#projects li a:hover {
+    text-decoration: underline;
+}
+
+#continuous-learning p {
+    margin-bottom: 20px;
+}
+
+#continuous-learning li {
+    margin-bottom: 15px;
+}
+
+#continuous-learning li strong {
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: 8px;
+}
+
+#continuous-learning li p {
+    margin-bottom: 0;
+    color: #555;
+}
+.education-entry {
+    margin-bottom: 20px;
+}
+
+.logo-and-text {
+    display: flex;
+    align-items: center;
+}
+
+.logo-and-text img {
+    max-width: 100px; 
+    margin-right: 10px;
+}
+
+.text-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-details p {
+    margin: 0;
+}
+
+
